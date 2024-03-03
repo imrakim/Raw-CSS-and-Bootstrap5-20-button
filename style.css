@@ -11,7 +11,7 @@
 border-radius: 13px;
 }
 .btn .hover:hover{
-background-color: crimson;
+background-color: rgb(93, 220, 20);
 }
 .btn .bp{
     background-image: url(/assets/bg.jpg);
